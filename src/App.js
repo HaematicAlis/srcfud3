@@ -1,9 +1,10 @@
 import React from 'react';
 import './App.css';
+import Home from './components/Home/Home.js';
 
 const App = () => {
     return <>
-        <h1 style={{color: 'white', marginLeft: 20}}>Hello world</h1>
+        <Home />
     </>;
 };
 
