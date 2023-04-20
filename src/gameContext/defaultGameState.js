@@ -5,7 +5,7 @@ export const defaultGameState = {
         'game': {
             'f': 'meleeAttack',
             'j': 'rangedAttack',
-            't': 'magicAttack'
+            'i': 'magicAttack'
         }
     },
     enemies: [
