@@ -1,0 +1,17 @@
+.enemy {
+    height: 100px;
+    width: 100px;
+    background: #ddd;
+    margin: 10px;
+    display: inline-block;
+    position: relative;
+}
+
+.enemyText {
+    font-family: 'Verdana';
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
