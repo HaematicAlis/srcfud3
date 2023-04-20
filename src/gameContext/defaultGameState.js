@@ -3,8 +3,8 @@ export const defaultGameState = {
     currentMenu: 'game',
     keyBindings: {
         'game': {
-            'e': 'meleeAttack',
-            'r': 'rangedAttack',
+            'f': 'meleeAttack',
+            'j': 'rangedAttack',
             't': 'magicAttack'
         }
     },
